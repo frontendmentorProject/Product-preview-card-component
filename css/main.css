@@ -111,7 +111,7 @@ body {
 button::before {
     margin-right: 11.5px;
     width: 14.5px;
-    content: url('/images/icon-cart.svg');
+    content: url('../images/icon-cart.svg');
 }
 
 button {
